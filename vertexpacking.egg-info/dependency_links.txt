@@ -1,0 +1,31 @@
+Introduzione
+
+Introduzione generale al problema del massimo insieme stabile
+Obiettivi del progetto
+Teoria del Problema
+
+Descrizione del problema del massimo insieme stabile
+Definizione formale del problema
+Rilassamento Lagrangiano
+
+Introduzione al concetto di rilassamento lagrangiano
+Formulazione del rilassamento lagrangiano per il problema del massimo insieme stabile
+Dualità e bound duale
+Implementazione del Progetto in Python
+
+Descrizione dell'ambiente di sviluppo e delle librerie utilizzate
+Generazione dei grafi
+Risoluzione del problema primale
+Risoluzione del rilassamento lagrangiano
+Risultati e Analisi
+
+Confronto tra i risultati ottenuti dalla soluzione del problema primale e dal rilassamento lagrangiano
+Analisi del bound duale ottenuto
+Discussione sulle performance dell'algoritmo
+Conclusioni
+
+Sintesi dei risultati ottenuti
+Potenziali miglioramenti e sviluppi futuri
+Domande e Risposte
+
+Sessione aperta per le domande del pubblico

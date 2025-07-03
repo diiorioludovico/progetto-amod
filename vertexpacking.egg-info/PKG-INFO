@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: vertexpacking
+Version: 0.1
+Requires-Python: >=3.12.4
+Requires-Dist: networkx>=3.3

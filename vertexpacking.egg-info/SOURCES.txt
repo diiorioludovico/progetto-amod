@@ -1,0 +1,7 @@
+README.md
+setup.py
+vertexpacking.egg-info/PKG-INFO
+vertexpacking.egg-info/SOURCES.txt
+vertexpacking.egg-info/dependency_links.txt
+vertexpacking.egg-info/requires.txt
+vertexpacking.egg-info/top_level.txt
